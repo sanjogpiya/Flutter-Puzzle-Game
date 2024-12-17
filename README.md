@@ -150,13 +150,13 @@
 </p>
 
 <p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (28).jpg">
+  <img width="260" alt="Image 14" src="screenshots/sc (31).jpg">
   <img width="260" alt="Image 15" src="screenshots/sc (29).jpg">
   <img width="260" alt="Image 12" src="screenshots/sc (30).jpg">
 </p>
 
 <p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (31).jpg">
+  <img width="260" alt="Image 14" src="screenshots/sc (28).jpg">
   <img width="260" alt="Image 12" src="screenshots/sc (33).jpg">
   <img width="260" alt="Image 12" src="screenshots/sc (36).jpg">
 
