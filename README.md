@@ -31,7 +31,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# **App Logo & Download**
+# **AbbarTec | أبار التقنية المقاولاتية العالمية**
 
 <img src="assets\banner.png" alt="Application Poster">
 
