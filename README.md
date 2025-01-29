@@ -33,6 +33,8 @@
 
 # **App Logo & Download**
 
+<img src="assets\banner.png" alt="Application Poster">
+
 <table border="1" width="100%" >
   <thead>
     <tr>
@@ -45,15 +47,17 @@
         <img width="320" alt="APP Logo" src="./assets/logo.png">
       </td>
       <td align="center" width="50%">
-        <h2>Availble Now on Apple store </h2>
-        <H3>(Launching On January 2025 )</H3>
+        <h2>DOWNLOAD NOW: </h2>
        <p align="center">
-          <a href=""  target="_blank">
+          <a href="https://shorturl.at/RKF3H"  target="_blank">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
           </a>
-          <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
+          <a href="https://shorturl.at/J0Pfc" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
           </a>
+            <a href="https://shorturl.at/TBlzf" target="_blank">
+    <img src="assets\huawie.png" alt="Available on Huawei AppGallery" width="150"/>
+        </a>
        </p>
       </td>
     </tr>
