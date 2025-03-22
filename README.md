@@ -31,7 +31,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# **AbbarTec | أبار التقنية المقاولاتية العالمية**
+# **شركة ارتواء العالمية لحفر الأبار و بناء المساجد | ertiwaa**
 
 <img src="assets\banner.png" alt="Application Poster">
 
@@ -47,15 +47,15 @@
         <img width="320" alt="APP Logo" src="./assets/logo.png">
       </td>
       <td align="center" width="50%">
-        <h2>DOWNLOAD NOW: </h2>
+        <h2>RELEASE ON 16 JULY 2025 (MY BDAY :> ) </h2>
        <p align="center">
-          <a href="https://shorturl.at/RKF3H"  target="_blank">
+          <a href=""  target="_blank">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
           </a>
-          <a href="https://shorturl.at/J0Pfc" target="_blank">
+          <a href="" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
           </a>
-            <a href="https://shorturl.at/TBlzf" target="_blank">
+            <a href="" target="_blank">
     <img src="assets\huawie.png" alt="Available on Huawei AppGallery" width="150"/>
         </a>
        </p>
@@ -77,11 +77,18 @@
       <td align="center" width="50%">
         <h2>App Description</h2>
         <p>
-        Abbar Tec's Well Digging Application is a comprehensive solution designed to streamline the process of well construction and management. This app offers a user-friendly interface for planning, executing, and monitoring well digging projects. Key features include real-time project tracking, resource management, and detailed reporting. Ideal for companies and individuals involved in well construction, the app ensures efficient project execution and resource utilization.
+        تطبيق ارتواء لحفر الآبار يساعد الشركات والأفراد على إدارة مشاريع حفر الآبار بكل سهولة. يوفر أدوات لتخطيط المشروع، تتبع التقدم لحظيًا، إدارة الموارد، وإصدار التقارير — كل ذلك من خلال واجهة بسيطة وسهلة الاستخدام.
+        </p>
+        <p>
+     Ertiwaa Well Digging App helps companies and individuals manage well construction projects easily. It includes tools for planning, tracking progress in real time, managing resources, and generating reports — all in one simple and user-friendly app.
         </p>
       </td>
       <td align="center" width="50%">
         <h2>Source Code</h2>
+
+<p>
+يرجى التقديم من خلال هذا الزر للحصول على صلاحية الوصول إلى كود المصدر. نقوم بذلك لضمان أن الأشخاص المصرح لهم فقط يمكنهم الحصول على الكود، وللحفاظ على التحكم في توزيعه.
+   </p>
         <p>Please apply via this button for source code access. We do this to ensure that only authorized individuals can obtain the code and to maintain control over its distribution.</p>
         <a href="https://younes-codes.web.app">
           <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
@@ -91,89 +98,14 @@
   </tbody>
 </table>
 
-# **Users Application**
+# **Application Demo**:
 
-<p align="center">
-  <img width="260" alt="Image 15" src="screenshots/sc (38).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (39).jpg">
-  <img width="260" alt="Image 26" src="screenshots/sc (2).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 21" src="screenshots/sc (3).jpg">
-  <img width="260" alt="Image 24" src="screenshots/sc (1).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (32).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 22" src="screenshots/sc (4).jpg">
-  <img width="260" alt="Image 23" src="screenshots/sc (5).jpg">
-  <img width="260" alt="Image 25" src="screenshots/sc (6).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 19" src="screenshots/sc (7).jpg">
-  <img width="260" alt="Image 20" src="screenshots/sc (8).jpg">
-  <img width="260" alt="Image 17" src="screenshots/sc (9).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (10).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (11).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (12).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (13).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (14).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (15).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (16).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (17).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (18).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (19).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (20).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (21).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (22).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (23).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (24).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (25).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (26).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (27).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (31).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (29).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (30).jpg">
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (28).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (33).jpg">
-  <img width="260" alt="Image 12" src="screenshots/sc (36).jpg">
-
-</p>
-
-<p align="center">
-  <img width="260" alt="Image 14" src="screenshots/sc (37).jpg">
-  <img width="260" alt="Image 14" src="screenshots/sc (34).jpg">
-  <img width="260" alt="Image 15" src="screenshots/sc (35).jpg">
-</p>
+<div style="text-align: center;">
+  <a href="https://www.figma.com/proto/JWXHWO6RUSxOPb9RO5o0A4/مؤسسة-إرتواء-للمشاريع?node-id=6010-15861&t=eeQW8gDQV0kgPtzP-1&starting-point-node-id=4155%3A22511" target="_blank">
+    <img src="assets/button.png" alt="Available on Huawei AppGallery" width="200"/>
+  </a>
+</div>
 
 # **For More Info:**
 
-- Contact Me: Hellalet Younes
-- Email: hellalet.younes@gmail.com
-- Phone: +213 558466741
+📲 **Contact Younes Hellalet** on WhatsApp: [Click to Chat](https://wa.me/message/ERKHEXO2Q2FKN1)
