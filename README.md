@@ -31,7 +31,7 @@
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# **شركة ارتواء العالمية لحفر الأبار و بناء المساجد | ertiwaa**
+# **SADA SEEEN Puzzle Game**
 
 <img src="assets\banner.png" alt="Application Poster">
 
@@ -47,7 +47,7 @@
         <img width="320" alt="APP Logo" src="./assets/logo.png">
       </td>
       <td align="center" width="50%">
-        <h2>RELEASE ON 16 JULY 2025 (MY BDAY :> ) </h2>
+        <h2>THIS APP IF FOR SALE <br> (NOT PUBLISHED YET)</h2>
        <p align="center">
           <a href=""  target="_blank">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
@@ -77,11 +77,11 @@
       <td align="center" width="50%">
         <h2>App Description</h2>
         <p>
-        تطبيق ارتواء لحفر الآبار يساعد الشركات والأفراد على إدارة مشاريع حفر الآبار بكل سهولة. يوفر أدوات لتخطيط المشروع، تتبع التقدم لحظيًا، إدارة الموارد، وإصدار التقارير — كل ذلك من خلال واجهة بسيطة وسهلة الاستخدام.
-        </p>
-        <p>
-     Ertiwaa Well Digging App helps companies and individuals manage well construction projects easily. It includes tools for planning, tracking progress in real time, managing resources, and generating reports — all in one simple and user-friendly app.
-        </p>
+          صدى سين هي لعبة ألغاز ممتعة تشبه لعبة الحروف التقليدية، حيث يقوم اللاعبون بتكوين كلمات باللغة العربية من مجموعة من الحروف المتاحة. تحتوي اللعبة على مستويات متدرجة الصعوبة وتحديات يومية تساعد في إثراء المفردات وتحسين مهارات اللغة العربية بطريقة ممتعة وتفاعلية.
+          </p>
+          <p>
+             Sada Seen is an entertaining puzzle game similar to traditional word games, where players form Arabic words from a set of available letters. The game features progressively challenging levels and daily challenges that help enrich vocabulary and improve Arabic language skills in a fun and interactive way.
+          </p>
       </td>
       <td align="center" width="50%">
         <h2>Source Code</h2>
@@ -98,13 +98,52 @@
   </tbody>
 </table>
 
-# **Application Demo**:
 
-<div style="text-align: center;">
-  <a href="https://www.figma.com/proto/JWXHWO6RUSxOPb9RO5o0A4/مؤسسة-إرتواء-للمشاريع?node-id=6010-15861&t=eeQW8gDQV0kgPtzP-1&starting-point-node-id=4155%3A22511" target="_blank">
-    <img src="assets/button.png" alt="Available on Huawei AppGallery" width="200"/>
-  </a>
-</div>
+# **App Screenshots**
+
+<p align="center">
+  <img width="260" alt="Screenshot 13" src="screenshots/sc (13).png">
+  <img width="260" alt="Screenshot 14" src="screenshots/sc (14).png">
+  <img width="260" alt="Screenshot 15" src="screenshots/sc (15).png">
+
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 16" src="screenshots/sc (16).png">
+  <img width="260" alt="Screenshot 17" src="screenshots/sc (17).png">
+  <img width="260" alt="Screenshot 11" src="screenshots/sc (11).png">
+
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 2" src="screenshots/sc (2).png">
+  <img width="260" alt="Screenshot 3" src="screenshots/sc (3).png">
+  <img width="260" alt="Screenshot 9" src="screenshots/sc (9).png">
+</p>
+<p align="center">
+  <img width="260" alt="Screenshot 6" src="screenshots/sc (6).png">
+  <img width="260" alt="Screenshot 4" src="screenshots/sc (4).png">
+  <img width="260" alt="Screenshot 5" src="screenshots/sc (5).png">
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 7" src="screenshots/sc (7).png">
+  <img width="260" alt="Screenshot 8" src="screenshots/sc (8).png">
+  <img width="260" alt="Screenshot 18" src="screenshots/sc (18).png">
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 7" src="screenshots/sc (19).png">
+  <img width="260" alt="Screenshot 8" src="screenshots/sc (20).png">
+  <img width="260" alt="Screenshot 18" src="screenshots/sc (21).png">
+</p>
+
+<p align="center">
+  <img width="260" alt="Screenshot 10" src="screenshots/sc (10).png">
+  <img width="260" alt="Screenshot 10" src="screenshots/sc (22).png">
+  <img width="260" alt="Screenshot 10" src="screenshots/sc (23).png">
+
+</p>
 
 # **For More Info:**
 
